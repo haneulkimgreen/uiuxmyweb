@@ -6,5 +6,3 @@
 # node_modules 폴더
 **/node_modules 폴더
 
-graphic/**/*.*
-!graphic/guide.md
